@@ -1,0 +1,116 @@
+﻿@model IEnumerable<ECommerceWebSite.Models.UserExtendedModel>
+
+@{
+    ViewData["Title"] = "Admin Panel";
+    var errorMessage = TempData["errorMessage"]?.ToString();
+    var successMessage = TempData["successMessage"]?.ToString();
+}
+
+<h1><a asp-action="Index"><span class="material-icons md-light">arrow_back</span></a> @ViewData["Title"]?.ToString()</h1>
+
+@if (!string.IsNullOrWhiteSpace(successMessage))
+{
+    <div class="alert alert-success">
+        <b>Success: </b>@successMessage
+        <button type="button" class="btn-close float-end" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+}
+
+else if (!string.IsNullOrWhiteSpace(errorMessage))
+{
+    <div class="alert alert-danger">
+        <b>Error: </b>@errorMessage
+        <button type="button" class="btn-close float-end" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+}
+
+<hr>
+
+<div>
+    <a class="btn btn-primary btn-sm" asp-action="CreateUser"><i class="fa-solid fa-plus"></i> User</a>
+</div>
+
+<div style="overflow-x:auto;">
+    <!-- Users Table -->
+    <h2>User List <input class="SearchInput" id="SearchInput" type="text" placeholder="Search.."> </h2>
+    <table class="sortable">
+        <thead>
+            <tr>
+                <th>Firstname</th>
+                <th>Surname</th>
+                <th>Email</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody id="SearchTable">
+            @foreach (var item in Model)
+            {
+                @if (item.Roles.ElementAt(0) != "Admin")
+                {
+                    <tr>
+                        <td>@item.FirstName</td>
+                        <td>@item.LastName</td>
+                        <td>@item.Email</td>
+                        <td>
+                            <form method="post">
+                                <a asp-action="UserView" asp-controller="Home" asp-route-id="@item.Id" class="btn btn-outline-primary btn-sm" title="open"><i class="fa-solid fa-magnifying-glass"></i></a>
+                                <a asp-action="EditUser" asp-controller="Home" asp-route-id="@item.Id" class="btn btn-outline-primary btn-sm" title="edit"><i class="fa-solid fa-pen"></i></a>
+                                <a asp-action="DeleteUser" asp-controller="Home" asp-route-id="@item.Id" class="btn btn-outline-danger btn-sm" type="submit" title="delete" onclick="return confirm('Are you sure you want remove user: @item.Email')"><i class="fa-solid fa-trash"></i></a>
+                            </form>
+                        </td>
+                    </tr>
+                }
+            }
+
+            @if (!Model.Any())
+            {
+                <tr>
+                    <td colspan="4"><center><i>User list is empty</i></center></td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+
+
+<div style="overflow-x:auto;">
+    <!-- Admin Table -->
+    <h2>Admin List <input class="SearchInput" id="SearchInput2" type="text" placeholder="Search.."> </h2>
+    <table class="sortable">
+        <thead>
+            <tr>
+                <th>Firstname</th>
+                <th>Surname</th>
+                <th>Email</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody id="SearchTable2">
+            @foreach (var item in Model)
+            {
+                @if (item.Roles.ElementAt(0) == "Admin")
+                {
+                    <tr>
+                        <td>@item.FirstName</td>
+                        <td>@item.LastName</td>
+                        <td>@item.Email</td>
+                        <td>
+                            <form method="post">
+                                <a asp-action="EditUser" asp-controller="Home" asp-route-id="@item.Id" class="btn btn-outline-primary btn-sm" title="edit"><i class="fa-solid fa-pen"></i></a>
+                                <a asp-action="DeleteUser" asp-controller="Home" asp-route-id="@item.Id" class="btn btn-outline-danger btn-sm" type="submit" title="delete" onclick="return confirm('Are you sure you want remove user: @item.Email')"><i class="fa-solid fa-trash"></i></a>
+                            </form>
+                        </td>
+                    </tr>
+                }
+            }
+
+            @if (!Model.Any())
+            {
+                <tr>
+                    <td colspan="4"><center><i>Admin list is empty</i></center></td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
