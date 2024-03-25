@@ -259,3 +259,4 @@ C:\Users\Utente\source\repos\ECommerceWebSite\ECommerceWebSite\bin\Debug\net8.0\
 C:\Users\Utente\source\repos\ECommerceWebSite\ECommerceWebSite\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
 C:\Users\Utente\source\repos\ECommerceWebSite\ECommerceWebSite\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
 C:\Users\Utente\source\repos\ECommerceWebSite\ECommerceWebSite\obj\Debug\net8.0\ECommerceWebSite.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Utente\source\repos\ECommerceWebSite\ECommerceWebSite\obj\Debug\net8.0\ECommerceWebSite.sourcelink.json
