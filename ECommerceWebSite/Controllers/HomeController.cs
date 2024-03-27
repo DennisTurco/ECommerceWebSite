@@ -1,5 +1,5 @@
 using ECommerceWebSite.Areas.Identity.Data;
-using ECommerceWebSite.Controllers.Admin;
+using ECommerceWebSite.Data;
 using ECommerceWebSite.Models;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
@@ -22,18 +22,11 @@ namespace ECommerceWebSite.Controllers
 
         public IActionResult Index()
         {
-            //var user = _userManager.FindByIdAsync("7900058c-9468-4d2b-a9a8-454f395ce6a9");
-            //_userManager.AddToRoleAsync(user, "Admin");
-
             return View();
         }
 
-        public IActionResult Privacy()
-        {
-            return View();
-        }
 
-        [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
+		[ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });

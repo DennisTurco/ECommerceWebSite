@@ -8250,26 +8250,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Utente\\.nuget\\packages\\": {}
+    "C:\\Users\\d.turco\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Utente\\source\\repos\\ECommerceWebSite\\ECommerceWebSite\\ECommerceWebSite.csproj",
+      "projectUniqueName": "C:\\Users\\d.turco\\source\\repos\\ECommerceWebSite\\ECommerceWebSite\\ECommerceWebSite.csproj",
       "projectName": "ECommerceWebSite",
-      "projectPath": "C:\\Users\\Utente\\source\\repos\\ECommerceWebSite\\ECommerceWebSite\\ECommerceWebSite.csproj",
-      "packagesPath": "C:\\Users\\Utente\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Utente\\source\\repos\\ECommerceWebSite\\ECommerceWebSite\\obj\\",
+      "projectPath": "C:\\Users\\d.turco\\source\\repos\\ECommerceWebSite\\ECommerceWebSite\\ECommerceWebSite.csproj",
+      "packagesPath": "C:\\Users\\d.turco\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\d.turco\\source\\repos\\ECommerceWebSite\\ECommerceWebSite\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Utente\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\d.turco\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

@@ -6,7 +6,7 @@
     var successMessage = TempData["successMessage"]?.ToString();
 }
 
-<h1><a asp-action="Index"><span class="material-icons md-light">arrow_back</span></a> @ViewData["Title"]?.ToString()</h1>
+<h1>@ViewData["Title"]?.ToString()</h1>
 
 @if (!string.IsNullOrWhiteSpace(successMessage))
 {
@@ -27,7 +27,7 @@ else if (!string.IsNullOrWhiteSpace(errorMessage))
 <hr>
 
 <div>
-    <a class="btn btn-primary btn-sm" asp-action="CreateUser"><i class="fa-solid fa-plus"></i> User</a>
+    <a class="btn btn-primary btn-sm" asp-area="Admin" asp-controller="Admin" asp-action="UserCreate"><i class="fa-solid fa-plus"></i> User</a>
 </div>
 
 <div style="overflow-x:auto;">
@@ -53,9 +53,8 @@ else if (!string.IsNullOrWhiteSpace(errorMessage))
                         <td>@item.Email</td>
                         <td>
                             <form method="post">
-                                <a asp-action="UserView" asp-controller="Home" asp-route-id="@item.Id" class="btn btn-outline-primary btn-sm" title="open"><i class="fa-solid fa-magnifying-glass"></i></a>
-                                <a asp-action="EditUser" asp-controller="Home" asp-route-id="@item.Id" class="btn btn-outline-primary btn-sm" title="edit"><i class="fa-solid fa-pen"></i></a>
-                                <a asp-action="DeleteUser" asp-controller="Home" asp-route-id="@item.Id" class="btn btn-outline-danger btn-sm" type="submit" title="delete" onclick="return confirm('Are you sure you want remove user: @item.Email')"><i class="fa-solid fa-trash"></i></a>
+                                <a asp-action="EditUser" asp-area="Admin" asp-controller="Admin" asp-route-id="@item.Id" class="btn btn-outline-primary btn-sm" title="edit"><i class="fa-solid fa-pen"></i></a>
+                                <a asp-action="DeleteUser" asp-area="Admin" asp-controller="Admin" asp-route-id="@item.Id" class="btn btn-outline-danger btn-sm" type="submit" title="delete" onclick="return confirm('Are you sure you want remove user: @item.Email')"><i class="fa-solid fa-trash"></i></a>
                             </form>
                         </td>
                     </tr>
@@ -97,8 +96,8 @@ else if (!string.IsNullOrWhiteSpace(errorMessage))
                         <td>@item.Email</td>
                         <td>
                             <form method="post">
-                                <a asp-action="EditUser" asp-controller="Home" asp-route-id="@item.Id" class="btn btn-outline-primary btn-sm" title="edit"><i class="fa-solid fa-pen"></i></a>
-                                <a asp-action="DeleteUser" asp-controller="Home" asp-route-id="@item.Id" class="btn btn-outline-danger btn-sm" type="submit" title="delete" onclick="return confirm('Are you sure you want remove user: @item.Email')"><i class="fa-solid fa-trash"></i></a>
+                                <a asp-action="EditUser" asp-area="Admin" asp-controller="Admin" asp-route-id="@item.Id" class="btn btn-outline-primary btn-sm" title="edit"><i class="fa-solid fa-pen"></i></a>
+                                <a asp-action="DeleteUser" asp-area="Admin" asp-controller="Admin" asp-route-id="@item.Id" class="btn btn-outline-danger btn-sm" type="submit" title="delete" onclick="return confirm('Are you sure you want remove user: @item.Email')"><i class="fa-solid fa-trash"></i></a>
                             </form>
                         </td>
                     </tr>
