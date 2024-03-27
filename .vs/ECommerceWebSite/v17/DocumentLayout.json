@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\d.turco\\source\\repos\\ECommerceWebSite\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F3A2BB5A-5BF3-40BC-9FAF-4D111EC8BAF9}|ECommerceWebSite\\ECommerceWebSite.csproj|c:\\users\\d.turco\\source\\repos\\ecommercewebsite\\ecommercewebsite\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F3A2BB5A-5BF3-40BC-9FAF-4D111EC8BAF9}|ECommerceWebSite\\ECommerceWebSite.csproj|solutionrelative:ecommercewebsite\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3A2BB5A-5BF3-40BC-9FAF-4D111EC8BAF9}|ECommerceWebSite\\ECommerceWebSite.csproj|c:\\users\\d.turco\\source\\repos\\ecommercewebsite\\ecommercewebsite\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F3A2BB5A-5BF3-40BC-9FAF-4D111EC8BAF9}|ECommerceWebSite\\ECommerceWebSite.csproj|solutionrelative:ecommercewebsite\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3A2BB5A-5BF3-40BC-9FAF-4D111EC8BAF9}|ECommerceWebSite\\ECommerceWebSite.csproj|c:\\users\\d.turco\\source\\repos\\ecommercewebsite\\ecommercewebsite\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{F3A2BB5A-5BF3-40BC-9FAF-4D111EC8BAF9}|ECommerceWebSite\\ECommerceWebSite.csproj|solutionrelative:ecommercewebsite\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F3A2BB5A-5BF3-40BC-9FAF-4D111EC8BAF9}|ECommerceWebSite\\ECommerceWebSite.csproj|c:\\users\\d.turco\\source\\repos\\ecommercewebsite\\ecommercewebsite\\views\\home\\user\\userslist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F3A2BB5A-5BF3-40BC-9FAF-4D111EC8BAF9}|ECommerceWebSite\\ECommerceWebSite.csproj|solutionrelative:ecommercewebsite\\views\\home\\user\\userslist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -13,14 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{F3A2BB5A-5BF3-40BC-9FAF-4D111EC8BAF9}|ECommerceWebSite\\ECommerceWebSite.csproj|c:\\users\\d.turco\\source\\repos\\ecommercewebsite\\ecommercewebsite\\migrations\\insert.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
       "RelativeMoniker": "D:0:0:{F3A2BB5A-5BF3-40BC-9FAF-4D111EC8BAF9}|ECommerceWebSite\\ECommerceWebSite.csproj|solutionrelative:ecommercewebsite\\migrations\\insert.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F3A2BB5A-5BF3-40BC-9FAF-4D111EC8BAF9}|ECommerceWebSite\\ECommerceWebSite.csproj|c:\\users\\d.turco\\source\\repos\\ecommercewebsite\\ecommercewebsite\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F3A2BB5A-5BF3-40BC-9FAF-4D111EC8BAF9}|ECommerceWebSite\\ECommerceWebSite.csproj|solutionrelative:ecommercewebsite\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F3A2BB5A-5BF3-40BC-9FAF-4D111EC8BAF9}|ECommerceWebSite\\ECommerceWebSite.csproj|c:\\users\\d.turco\\source\\repos\\ecommercewebsite\\ecommercewebsite\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F3A2BB5A-5BF3-40BC-9FAF-4D111EC8BAF9}|ECommerceWebSite\\ECommerceWebSite.csproj|solutionrelative:ecommercewebsite\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F3A2BB5A-5BF3-40BC-9FAF-4D111EC8BAF9}|ECommerceWebSite\\ECommerceWebSite.csproj|c:\\users\\d.turco\\source\\repos\\ecommercewebsite\\ecommercewebsite\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -70,20 +74,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\d.turco\\source\\repos\\ECommerceWebSite\\ECommerceWebSite\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "ECommerceWebSite\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\d.turco\\source\\repos\\ECommerceWebSite\\ECommerceWebSite\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "ECommerceWebSite\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-27T12:47:28.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\d.turco\\source\\repos\\ECommerceWebSite\\ECommerceWebSite\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "ECommerceWebSite\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\d.turco\\source\\repos\\ECommerceWebSite\\ECommerceWebSite\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "ECommerceWebSite\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-03-27T12:30:10.152Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "UsersList.cshtml",
               "DocumentMoniker": "C:\\Users\\d.turco\\source\\repos\\ECommerceWebSite\\ECommerceWebSite\\Views\\Home\\User\\UsersList.cshtml",
               "RelativeDocumentMoniker": "ECommerceWebSite\\Views\\Home\\User\\UsersList.cshtml",
@@ -96,7 +113,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "AdminController.cs",
               "DocumentMoniker": "C:\\Users\\d.turco\\source\\repos\\ECommerceWebSite\\ECommerceWebSite\\Controllers\\AdminController.cs",
               "RelativeDocumentMoniker": "ECommerceWebSite\\Controllers\\AdminController.cs",
@@ -109,7 +126,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Insert.sql ",
               "DocumentMoniker": "C:\\Users\\d.turco\\source\\repos\\ECommerceWebSite\\ECommerceWebSite\\Migrations\\Insert.sql",
               "RelativeDocumentMoniker": "ECommerceWebSite\\Migrations\\Insert.sql",
@@ -121,7 +138,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\d.turco\\source\\repos\\ECommerceWebSite\\ECommerceWebSite\\Program.cs",
               "RelativeDocumentMoniker": "ECommerceWebSite\\Program.cs",
@@ -133,7 +150,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\d.turco\\source\\repos\\ECommerceWebSite\\ECommerceWebSite\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "ECommerceWebSite\\Controllers\\HomeController.cs",
@@ -145,7 +162,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "_LoginPartial.cshtml",
               "DocumentMoniker": "C:\\Users\\d.turco\\source\\repos\\ECommerceWebSite\\ECommerceWebSite\\Views\\Shared\\_LoginPartial.cshtml",
               "RelativeDocumentMoniker": "ECommerceWebSite\\Views\\Shared\\_LoginPartial.cshtml",
@@ -153,11 +170,12 @@
               "RelativeToolTip": "ECommerceWebSite\\Views\\Shared\\_LoginPartial.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-25T18:56:23.498Z"
+              "WhenOpened": "2024-03-25T18:56:23.498Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Register.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\d.turco\\source\\repos\\ECommerceWebSite\\ECommerceWebSite\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
               "RelativeDocumentMoniker": "ECommerceWebSite\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
@@ -169,7 +187,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Register.cshtml",
               "DocumentMoniker": "C:\\Users\\d.turco\\source\\repos\\ECommerceWebSite\\ECommerceWebSite\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
               "RelativeDocumentMoniker": "ECommerceWebSite\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
@@ -181,7 +199,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "RoleHelper.cs",
               "DocumentMoniker": "C:\\Users\\d.turco\\source\\repos\\ECommerceWebSite\\ECommerceWebSite\\Helpers\\RoleHelper.cs",
               "RelativeDocumentMoniker": "ECommerceWebSite\\Helpers\\RoleHelper.cs",
@@ -193,7 +211,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\d.turco\\source\\repos\\ECommerceWebSite\\ECommerceWebSite\\appsettings.json",
               "RelativeDocumentMoniker": "ECommerceWebSite\\appsettings.json",
