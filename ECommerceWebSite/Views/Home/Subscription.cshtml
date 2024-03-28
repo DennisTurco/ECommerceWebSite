@@ -1,0 +1,62 @@
+﻿@{
+    ViewData["Title"] = "Pacchetti Abbonamento";
+    var errorMessage = TempData["errorMessage"]?.ToString();
+    var successMessage = TempData["successMessage"]?.ToString();
+}
+
+<h1>@ViewData["Title"]?.ToString()</h1>
+
+
+<div class="background">
+    <div class="container">
+        <div class="panel pricing-table">
+
+            <div class="pricing-plan">
+                <img src="https://s22.postimg.cc/8mv5gn7w1/paper-plane.png" alt="" class="pricing-img">
+                <h2 class="pricing-header">Tariffa Oraria</h2>
+                <ul class="pricing-features">
+                    <li class="pricing-features-item">40€ 30 Minuti</li>
+                    <li class="pricing-features-item">50€ 45 Minuti</li>
+                    <li class="pricing-features-item">60€ 60 Minuti</li>
+                </ul>
+                <span class="pricing-price">€25</span>
+                <span class="pricing-price">15 minuti</span>
+                <a href="mailto:droneservicesparma@gmail.com?subject=Richiesta - TARIFFA ORARIA" class="pricing-button">Contattami</a>
+            </div>
+
+            <div class="pricing-plan">
+                <img src="https://s28.postimg.cc/ju5bnc3x9/plane.png" alt="" class="pricing-img">
+                <h2 class="pricing-header">Mezza Giornata</h2>
+                <ul class="pricing-features">
+                    <li class="pricing-features-item">Video fino in 4K</li>
+                    <li class="pricing-features-item">Fotografie in RAW</li>
+                </ul>
+                <span class="pricing-price">€175</span>
+                <span class="pricing-price">4 ore</span>
+                <a href="mailto:droneservicesparma@gmail.com?subject=Richiesta - MEZZA GIORNATA" class="pricing-button is-featured">Contattami</a>
+            </div>
+
+            <div class="pricing-plan">
+                <img src="https://s21.postimg.cc/tpm0cge4n/space-ship.png" alt="" class="pricing-img">
+                <h2 class="pricing-header">Giornata Intera</h2>
+                <ul class="pricing-features">
+                    <li class="pricing-features-item">Video fino in 4K</li>
+                    <li class="pricing-features-item">Fotografie in RAW</li>
+                </ul>
+                <span class="pricing-price">€325</span>
+                <span class="pricing-price">8 ore</span>
+                <a href="mailto:droneservicesparma@gmail.com?subject=Richiesta - GIORNATA INTERA" class="pricing-button">Contattami</a>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+<div class="info">
+    <i>Costo trasferta in auto: 0,40 €/Km</i>
+    <p>
+        Su richiesto, è possibile avere il servizio di montaggio video
+        Una volta rientrati in sede, i dati verranno scaricati sui nostri dispositivi per eseguire un backup completo.
+        I file, se il cliente non ha scelto il servizio di elaborazione video e foto, verrano inviati per mail tramite wetransfer.
+</div>
+

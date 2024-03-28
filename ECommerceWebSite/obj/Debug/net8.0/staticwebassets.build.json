@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "dqlNlVJvZcrHKDLEKw7mNmgcEoinTegikk9QWNVp32s=",
+  "Hash": "wyQa8fWAyN96HPJf3EjuAEP8iIOu5zFsA8PFmR/i4QI=",
   "Source": "ECommerceWebSite",
   "BasePath": "_content/ECommerceWebSite",
   "Mode": "Default",
@@ -1231,6 +1231,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\d.turco\\source\\repos\\ECommerceWebSite\\ECommerceWebSite\\wwwroot\\js\\customization.js",
+      "SourceId": "ECommerceWebSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\d.turco\\source\\repos\\ECommerceWebSite\\ECommerceWebSite\\wwwroot\\",
+      "BasePath": "_content/ECommerceWebSite",
+      "RelativePath": "js/customization.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\customization.js"
     },
     {
       "Identity": "C:\\Users\\d.turco\\source\\repos\\ECommerceWebSite\\ECommerceWebSite\\wwwroot\\js\\search_filter.js",

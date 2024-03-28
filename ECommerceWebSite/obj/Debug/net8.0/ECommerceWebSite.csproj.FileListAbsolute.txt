@@ -522,3 +522,5 @@ C:\Users\d.turco\source\repos\ECommerceWebSite\ECommerceWebSite\obj\Debug\net8.0
 C:\Users\d.turco\source\repos\ECommerceWebSite\ECommerceWebSite\obj\Debug\net8.0\ECommerceWebSite.pdb
 C:\Users\d.turco\source\repos\ECommerceWebSite\ECommerceWebSite\obj\Debug\net8.0\ECommerceWebSite.genruntimeconfig.cache
 C:\Users\d.turco\source\repos\ECommerceWebSite\ECommerceWebSite\obj\Debug\net8.0\ref\ECommerceWebSite.dll
+C:\Users\d.turco\source\repos\ECommerceWebSite\ECommerceWebSite\obj\Debug\net8.0\scopedcss\Views\Home\Subscription.cshtml.rz.scp.css
+C:\Users\d.turco\source\repos\ECommerceWebSite\ECommerceWebSite\obj\Debug\net8.0\scopedcss\Views\Home\Customization.cshtml.rz.scp.css

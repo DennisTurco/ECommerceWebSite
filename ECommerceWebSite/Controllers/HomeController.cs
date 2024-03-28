@@ -25,8 +25,23 @@ namespace ECommerceWebSite.Controllers
             return View();
         }
 
+        public IActionResult Subscription()
+        {
+            return View();
+        }
 
-		[ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
+        public IActionResult Category()
+        {
+            return View();
+        }
+
+        public IActionResult Customization()
+        {
+            return View();
+        }
+
+
+        [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });

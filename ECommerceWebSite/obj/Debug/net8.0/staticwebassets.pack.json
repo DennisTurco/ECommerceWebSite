@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\d.turco\\source\\repos\\ECommerceWebSite\\ECommerceWebSite\\wwwroot\\js\\customization.js",
+      "PackagePath": "staticwebassets\\js\\customization.js"
+    },
+    {
       "Id": "C:\\Users\\d.turco\\source\\repos\\ECommerceWebSite\\ECommerceWebSite\\wwwroot\\js\\search_filter.js",
       "PackagePath": "staticwebassets\\js\\search_filter.js"
     },

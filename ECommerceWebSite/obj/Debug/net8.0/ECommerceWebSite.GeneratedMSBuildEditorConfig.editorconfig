@@ -58,6 +58,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/d.turco/source/repos/ECommerceWebSite/ECommerceWebSite/Views/Home/Category.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDYXRlZ29yeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/d.turco/source/repos/ECommerceWebSite/ECommerceWebSite/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -97,6 +101,14 @@ build_metadata.AdditionalFiles.CssScope =
 [C:/Users/d.turco/source/repos/ECommerceWebSite/ECommerceWebSite/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/d.turco/source/repos/ECommerceWebSite/ECommerceWebSite/Views/Home/Customization.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDdXN0b21pemF0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-7m8ye8lp4o
+
+[C:/Users/d.turco/source/repos/ECommerceWebSite/ECommerceWebSite/Views/Home/Subscription.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTdWJzY3JpcHRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-xqqfuro8c9
 
 [C:/Users/d.turco/source/repos/ECommerceWebSite/ECommerceWebSite/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s

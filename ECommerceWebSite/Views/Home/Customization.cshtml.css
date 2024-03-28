@@ -1,0 +1,14 @@
+﻿.container {
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.customize-panel {
+    margin-bottom: 20px;
+}
+
+#phone-canvas {
+    border: 1px solid #000;
+    margin-top: 20px;
+}

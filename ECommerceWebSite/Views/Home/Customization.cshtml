@@ -1,0 +1,33 @@
+﻿@{
+    ViewData["Title"] = "Personalizzazione Targhetta";
+    var errorMessage = TempData["errorMessage"]?.ToString();
+    var successMessage = TempData["successMessage"]?.ToString();
+}
+
+<h1>@ViewData["Title"]?.ToString()</h1>
+
+
+<div class="container">
+    <!-- Pannello di personalizzazione -->
+    <div class="customize-panel">
+        <label for="font-family">Scegli il font:</label>
+        <select id="font-family">
+            <option value="Arial">Arial</option>
+            <option value="Helvetica">Helvetica</option>
+            <option value="Times New Roman">Times New Roman</option>
+            <!-- Altri font -->
+        </select>
+
+        <label for="upload-image">Carica immagine:</label>
+        <input type="file" id="upload-image">
+    </div>
+
+    <!-- Canvas per la cover del telefono -->
+    <center>
+        <canvas id="phone-canvas" width="300" height="300"></canvas>
+    </center>
+
+    <input type="text" id="rotationInput" placeholder="Inserisci angolo di rotazione">
+    <button id="applyRotation">Applica Rotazione</button>
+    <button id="saveButton">Salva</button>
+</div>
