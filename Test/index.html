@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Personalizza la tua cover</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Personalizza la tua cover</h1>
+        
+        <!-- Pannello di personalizzazione -->
+        <div class="customize-panel">
+            <label for="font-family">Scegli il font:</label>
+            <select id="font-family">
+                <option value="Arial">Arial</option>
+                <option value="Helvetica">Helvetica</option>
+                <option value="Times New Roman">Times New Roman</option>
+                <!-- Altri font -->
+            </select>
+            
+            <label for="upload-image">Carica immagine:</label>
+            <input type="file" id="upload-image">
+        </div>
+        
+        <!-- Canvas per la cover del telefono -->
+        <center>
+            <canvas id="phone-canvas" width="300" height="300"></canvas>
+        </center>
+        
+        <input type="text" id="rotationInput" placeholder="Inserisci angolo di rotazione">
+        <button id="applyRotation">Applica Rotazione</button>
+        <button id="saveButton">Salva</button>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
