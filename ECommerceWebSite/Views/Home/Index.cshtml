@@ -1,5 +1,26 @@
 ﻿@{
     ViewData["Title"] = "Home Page";
+    var errorMessage = TempData["errorMessage"]?.ToString();
+    var successMessage = TempData["successMessage"]?.ToString();
+}
+
+<h1>@ViewData["Title"]?.ToString()</h1>
+
+
+@if (!string.IsNullOrWhiteSpace(successMessage))
+{
+    <div class="alert alert-success">
+        <b>Success: </b>@successMessage
+        <button type="button" class="btn-close float-end" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+}
+
+else if (!string.IsNullOrWhiteSpace(errorMessage))
+{
+    <div class="alert alert-danger">
+        <b>Error: </b>@errorMessage
+        <button type="button" class="btn-close float-end" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
 }
 
 <div class="text-center">
@@ -7,6 +28,8 @@
     <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
 </div>
 
+
+<!--TODO: FIX ELEMENTS-->
 <div>
     <a class="btn btn-primary btn-sm" asp-controller="Home" asp-action="Subscription"><i class="fa-solid fa-plus"></i> Pacchetti Abbonamento</a>
 </div>

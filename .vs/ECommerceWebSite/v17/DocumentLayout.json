@@ -3,52 +3,60 @@
   "WorkspaceRootPath": "C:\\Users\\d.turco\\source\\repos\\ECommerceWebSite\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F3A2BB5A-5BF3-40BC-9FAF-4D111EC8BAF9}|ECommerceWebSite\\ECommerceWebSite.csproj|c:\\users\\d.turco\\source\\repos\\ecommercewebsite\\ecommercewebsite\\views\\home\\customization.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F3A2BB5A-5BF3-40BC-9FAF-4D111EC8BAF9}|ECommerceWebSite\\ECommerceWebSite.csproj|solutionrelative:ecommercewebsite\\views\\home\\customization.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F3A2BB5A-5BF3-40BC-9FAF-4D111EC8BAF9}|ECommerceWebSite\\ECommerceWebSite.csproj|c:\\users\\d.turco\\source\\repos\\ecommercewebsite\\ecommercewebsite\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3A2BB5A-5BF3-40BC-9FAF-4D111EC8BAF9}|ECommerceWebSite\\ECommerceWebSite.csproj|solutionrelative:ecommercewebsite\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F3A2BB5A-5BF3-40BC-9FAF-4D111EC8BAF9}|ECommerceWebSite\\ECommerceWebSite.csproj|c:\\users\\d.turco\\source\\repos\\ecommercewebsite\\ecommercewebsite\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F3A2BB5A-5BF3-40BC-9FAF-4D111EC8BAF9}|ECommerceWebSite\\ECommerceWebSite.csproj|solutionrelative:ecommercewebsite\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F3A2BB5A-5BF3-40BC-9FAF-4D111EC8BAF9}|ECommerceWebSite\\ECommerceWebSite.csproj|c:\\users\\d.turco\\source\\repos\\ecommercewebsite\\ecommercewebsite\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{F3A2BB5A-5BF3-40BC-9FAF-4D111EC8BAF9}|ECommerceWebSite\\ECommerceWebSite.csproj|solutionrelative:ecommercewebsite\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F3A2BB5A-5BF3-40BC-9FAF-4D111EC8BAF9}|ECommerceWebSite\\ECommerceWebSite.csproj|c:\\users\\d.turco\\source\\repos\\ecommercewebsite\\ecommercewebsite\\views\\home\\customization.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{F3A2BB5A-5BF3-40BC-9FAF-4D111EC8BAF9}|ECommerceWebSite\\ECommerceWebSite.csproj|solutionrelative:ecommercewebsite\\views\\home\\customization.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F3A2BB5A-5BF3-40BC-9FAF-4D111EC8BAF9}|ECommerceWebSite\\ECommerceWebSite.csproj|c:\\users\\d.turco\\source\\repos\\ecommercewebsite\\ecommercewebsite\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{F3A2BB5A-5BF3-40BC-9FAF-4D111EC8BAF9}|ECommerceWebSite\\ECommerceWebSite.csproj|solutionrelative:ecommercewebsite\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F3A2BB5A-5BF3-40BC-9FAF-4D111EC8BAF9}|ECommerceWebSite\\ECommerceWebSite.csproj|c:\\users\\d.turco\\source\\repos\\ecommercewebsite\\ecommercewebsite\\views\\home\\category.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F3A2BB5A-5BF3-40BC-9FAF-4D111EC8BAF9}|ECommerceWebSite\\ECommerceWebSite.csproj|solutionrelative:ecommercewebsite\\views\\home\\category.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F3A2BB5A-5BF3-40BC-9FAF-4D111EC8BAF9}|ECommerceWebSite\\ECommerceWebSite.csproj|c:\\users\\d.turco\\source\\repos\\ecommercewebsite\\ecommercewebsite\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F3A2BB5A-5BF3-40BC-9FAF-4D111EC8BAF9}|ECommerceWebSite\\ECommerceWebSite.csproj|solutionrelative:ecommercewebsite\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F3A2BB5A-5BF3-40BC-9FAF-4D111EC8BAF9}|ECommerceWebSite\\ECommerceWebSite.csproj|c:\\users\\d.turco\\source\\repos\\ecommercewebsite\\ecommercewebsite\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3A2BB5A-5BF3-40BC-9FAF-4D111EC8BAF9}|ECommerceWebSite\\ECommerceWebSite.csproj|solutionrelative:ecommercewebsite\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F3A2BB5A-5BF3-40BC-9FAF-4D111EC8BAF9}|ECommerceWebSite\\ECommerceWebSite.csproj|c:\\users\\d.turco\\source\\repos\\ecommercewebsite\\ecommercewebsite\\views\\home\\subscription.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F3A2BB5A-5BF3-40BC-9FAF-4D111EC8BAF9}|ECommerceWebSite\\ECommerceWebSite.csproj|solutionrelative:ecommercewebsite\\views\\home\\subscription.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F3A2BB5A-5BF3-40BC-9FAF-4D111EC8BAF9}|ECommerceWebSite\\ECommerceWebSite.csproj|c:\\users\\d.turco\\source\\repos\\ecommercewebsite\\ecommercewebsite\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F3A2BB5A-5BF3-40BC-9FAF-4D111EC8BAF9}|ECommerceWebSite\\ECommerceWebSite.csproj|solutionrelative:ecommercewebsite\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F3A2BB5A-5BF3-40BC-9FAF-4D111EC8BAF9}|ECommerceWebSite\\ECommerceWebSite.csproj|c:\\users\\d.turco\\source\\repos\\ecommercewebsite\\ecommercewebsite\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F3A2BB5A-5BF3-40BC-9FAF-4D111EC8BAF9}|ECommerceWebSite\\ECommerceWebSite.csproj|solutionrelative:ecommercewebsite\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F3A2BB5A-5BF3-40BC-9FAF-4D111EC8BAF9}|ECommerceWebSite\\ECommerceWebSite.csproj|c:\\users\\d.turco\\source\\repos\\ecommercewebsite\\ecommercewebsite\\views\\home\\subscription.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{F3A2BB5A-5BF3-40BC-9FAF-4D111EC8BAF9}|ECommerceWebSite\\ECommerceWebSite.csproj|solutionrelative:ecommercewebsite\\views\\home\\subscription.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{F3A2BB5A-5BF3-40BC-9FAF-4D111EC8BAF9}|ECommerceWebSite\\ECommerceWebSite.csproj|c:\\users\\d.turco\\source\\repos\\ecommercewebsite\\ecommercewebsite\\views\\home\\customization.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F3A2BB5A-5BF3-40BC-9FAF-4D111EC8BAF9}|ECommerceWebSite\\ECommerceWebSite.csproj|solutionrelative:ecommercewebsite\\views\\home\\customization.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3A2BB5A-5BF3-40BC-9FAF-4D111EC8BAF9}|ECommerceWebSite\\ECommerceWebSite.csproj|c:\\users\\d.turco\\source\\repos\\ecommercewebsite\\ecommercewebsite\\views\\home\\category.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F3A2BB5A-5BF3-40BC-9FAF-4D111EC8BAF9}|ECommerceWebSite\\ECommerceWebSite.csproj|solutionrelative:ecommercewebsite\\views\\home\\category.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3A2BB5A-5BF3-40BC-9FAF-4D111EC8BAF9}|ECommerceWebSite\\ECommerceWebSite.csproj|c:\\users\\d.turco\\source\\repos\\ecommercewebsite\\ecommercewebsite\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3A2BB5A-5BF3-40BC-9FAF-4D111EC8BAF9}|ECommerceWebSite\\ECommerceWebSite.csproj|solutionrelative:ecommercewebsite\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F3A2BB5A-5BF3-40BC-9FAF-4D111EC8BAF9}|ECommerceWebSite\\ECommerceWebSite.csproj|c:\\users\\d.turco\\source\\repos\\ecommercewebsite\\ecommercewebsite\\views\\home\\user\\userslist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F3A2BB5A-5BF3-40BC-9FAF-4D111EC8BAF9}|ECommerceWebSite\\ECommerceWebSite.csproj|solutionrelative:ecommercewebsite\\views\\home\\user\\userslist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F3A2BB5A-5BF3-40BC-9FAF-4D111EC8BAF9}|ECommerceWebSite\\ECommerceWebSite.csproj|c:\\users\\d.turco\\source\\repos\\ecommercewebsite\\ecommercewebsite\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F3A2BB5A-5BF3-40BC-9FAF-4D111EC8BAF9}|ECommerceWebSite\\ECommerceWebSite.csproj|solutionrelative:ecommercewebsite\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F3A2BB5A-5BF3-40BC-9FAF-4D111EC8BAF9}|ECommerceWebSite\\ECommerceWebSite.csproj|c:\\users\\d.turco\\source\\repos\\ecommercewebsite\\ecommercewebsite\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{F3A2BB5A-5BF3-40BC-9FAF-4D111EC8BAF9}|ECommerceWebSite\\ECommerceWebSite.csproj|solutionrelative:ecommercewebsite\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3A2BB5A-5BF3-40BC-9FAF-4D111EC8BAF9}|ECommerceWebSite\\ECommerceWebSite.csproj|c:\\users\\d.turco\\source\\repos\\ecommercewebsite\\ecommercewebsite\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F3A2BB5A-5BF3-40BC-9FAF-4D111EC8BAF9}|ECommerceWebSite\\ECommerceWebSite.csproj|solutionrelative:ecommercewebsite\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3A2BB5A-5BF3-40BC-9FAF-4D111EC8BAF9}|ECommerceWebSite\\ECommerceWebSite.csproj|c:\\users\\d.turco\\source\\repos\\ecommercewebsite\\ecommercewebsite\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F3A2BB5A-5BF3-40BC-9FAF-4D111EC8BAF9}|ECommerceWebSite\\ECommerceWebSite.csproj|solutionrelative:ecommercewebsite\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3A2BB5A-5BF3-40BC-9FAF-4D111EC8BAF9}|ECommerceWebSite\\ECommerceWebSite.csproj|c:\\users\\d.turco\\source\\repos\\ecommercewebsite\\ecommercewebsite\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{F3A2BB5A-5BF3-40BC-9FAF-4D111EC8BAF9}|ECommerceWebSite\\ECommerceWebSite.csproj|solutionrelative:ecommercewebsite\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3A2BB5A-5BF3-40BC-9FAF-4D111EC8BAF9}|ECommerceWebSite\\ECommerceWebSite.csproj|c:\\users\\d.turco\\source\\repos\\ecommercewebsite\\ecommercewebsite\\views\\home\\customization.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{F3A2BB5A-5BF3-40BC-9FAF-4D111EC8BAF9}|ECommerceWebSite\\ECommerceWebSite.csproj|solutionrelative:ecommercewebsite\\views\\home\\customization.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3A2BB5A-5BF3-40BC-9FAF-4D111EC8BAF9}|ECommerceWebSite\\ECommerceWebSite.csproj|c:\\users\\d.turco\\source\\repos\\ecommercewebsite\\ecommercewebsite\\views\\home\\subscription.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{F3A2BB5A-5BF3-40BC-9FAF-4D111EC8BAF9}|ECommerceWebSite\\ECommerceWebSite.csproj|solutionrelative:ecommercewebsite\\views\\home\\subscription.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F3A2BB5A-5BF3-40BC-9FAF-4D111EC8BAF9}|ECommerceWebSite\\ECommerceWebSite.csproj|c:\\users\\d.turco\\source\\repos\\ecommercewebsite\\ecommercewebsite\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
@@ -57,10 +65,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{F3A2BB5A-5BF3-40BC-9FAF-4D111EC8BAF9}|ECommerceWebSite\\ECommerceWebSite.csproj|c:\\users\\d.turco\\source\\repos\\ecommercewebsite\\ecommercewebsite\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F3A2BB5A-5BF3-40BC-9FAF-4D111EC8BAF9}|ECommerceWebSite\\ECommerceWebSite.csproj|solutionrelative:ecommercewebsite\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F3A2BB5A-5BF3-40BC-9FAF-4D111EC8BAF9}|ECommerceWebSite\\ECommerceWebSite.csproj|c:\\users\\d.turco\\source\\repos\\ecommercewebsite\\ecommercewebsite\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F3A2BB5A-5BF3-40BC-9FAF-4D111EC8BAF9}|ECommerceWebSite\\ECommerceWebSite.csproj|solutionrelative:ecommercewebsite\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F3A2BB5A-5BF3-40BC-9FAF-4D111EC8BAF9}|ECommerceWebSite\\ECommerceWebSite.csproj|c:\\users\\d.turco\\source\\repos\\ecommercewebsite\\ecommercewebsite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -90,7 +94,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 758,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -102,13 +106,91 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Customization.cshtml",
+              "DocumentMoniker": "C:\\Users\\d.turco\\source\\repos\\ECommerceWebSite\\ECommerceWebSite\\Views\\Home\\Customization.cshtml",
+              "RelativeDocumentMoniker": "ECommerceWebSite\\Views\\Home\\Customization.cshtml",
+              "ToolTip": "C:\\Users\\d.turco\\source\\repos\\ECommerceWebSite\\ECommerceWebSite\\Views\\Home\\Customization.cshtml",
+              "RelativeToolTip": "ECommerceWebSite\\Views\\Home\\Customization.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-02T08:03:52.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Subscription.cshtml",
+              "DocumentMoniker": "C:\\Users\\d.turco\\source\\repos\\ECommerceWebSite\\ECommerceWebSite\\Views\\Home\\Subscription.cshtml",
+              "RelativeDocumentMoniker": "ECommerceWebSite\\Views\\Home\\Subscription.cshtml",
+              "ToolTip": "C:\\Users\\d.turco\\source\\repos\\ECommerceWebSite\\ECommerceWebSite\\Views\\Home\\Subscription.cshtml",
+              "RelativeToolTip": "ECommerceWebSite\\Views\\Home\\Subscription.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-02T08:03:24.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\d.turco\\source\\repos\\ECommerceWebSite\\ECommerceWebSite\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "ECommerceWebSite\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\d.turco\\source\\repos\\ECommerceWebSite\\ECommerceWebSite\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "ECommerceWebSite\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T07:39:10.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\d.turco\\source\\repos\\ECommerceWebSite\\ECommerceWebSite\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ECommerceWebSite\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\d.turco\\source\\repos\\ECommerceWebSite\\ECommerceWebSite\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ECommerceWebSite\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAAB4AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-27T12:30:10.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\d.turco\\source\\repos\\ECommerceWebSite\\ECommerceWebSite\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "ECommerceWebSite\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\d.turco\\source\\repos\\ECommerceWebSite\\ECommerceWebSite\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "ECommerceWebSite\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-25T18:56:23.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\d.turco\\source\\repos\\ECommerceWebSite\\ECommerceWebSite\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ECommerceWebSite\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\d.turco\\source\\repos\\ECommerceWebSite\\ECommerceWebSite\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ECommerceWebSite\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-28T08:15:00.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Category.cshtml",
               "DocumentMoniker": "C:\\Users\\d.turco\\source\\repos\\ECommerceWebSite\\ECommerceWebSite\\Views\\Home\\Category.cshtml",
               "RelativeDocumentMoniker": "ECommerceWebSite\\Views\\Home\\Category.cshtml",
               "ToolTip": "C:\\Users\\d.turco\\source\\repos\\ECommerceWebSite\\ECommerceWebSite\\Views\\Home\\Category.cshtml",
               "RelativeToolTip": "ECommerceWebSite\\Views\\Home\\Category.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-03-28T08:08:55.664Z",
               "EditorCaption": ""
@@ -116,32 +198,58 @@
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Subscription.cshtml",
-              "DocumentMoniker": "C:\\Users\\d.turco\\source\\repos\\ECommerceWebSite\\ECommerceWebSite\\Views\\Home\\Subscription.cshtml",
-              "RelativeDocumentMoniker": "ECommerceWebSite\\Views\\Home\\Subscription.cshtml",
-              "ToolTip": "C:\\Users\\d.turco\\source\\repos\\ECommerceWebSite\\ECommerceWebSite\\Views\\Home\\Subscription.cshtml",
-              "RelativeToolTip": "ECommerceWebSite\\Views\\Home\\Subscription.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "UsersList.cshtml",
+              "DocumentMoniker": "C:\\Users\\d.turco\\source\\repos\\ECommerceWebSite\\ECommerceWebSite\\Views\\Home\\User\\UsersList.cshtml",
+              "RelativeDocumentMoniker": "ECommerceWebSite\\Views\\Home\\User\\UsersList.cshtml",
+              "ToolTip": "C:\\Users\\d.turco\\source\\repos\\ECommerceWebSite\\ECommerceWebSite\\Views\\Home\\User\\UsersList.cshtml",
+              "RelativeToolTip": "ECommerceWebSite\\Views\\Home\\User\\UsersList.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAC8AAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-28T08:08:21.685Z",
+              "WhenOpened": "2024-03-27T08:42:22.263Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 0,
               "Title": "AdminController.cs",
               "DocumentMoniker": "C:\\Users\\d.turco\\source\\repos\\ECommerceWebSite\\ECommerceWebSite\\Controllers\\AdminController.cs",
               "RelativeDocumentMoniker": "ECommerceWebSite\\Controllers\\AdminController.cs",
               "ToolTip": "C:\\Users\\d.turco\\source\\repos\\ECommerceWebSite\\ECommerceWebSite\\Controllers\\AdminController.cs",
               "RelativeToolTip": "ECommerceWebSite\\Controllers\\AdminController.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAgwDUAAAA7AAAA",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAowEUAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-27T08:20:59.306Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\d.turco\\source\\repos\\ECommerceWebSite\\ECommerceWebSite\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "ECommerceWebSite\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\d.turco\\source\\repos\\ECommerceWebSite\\ECommerceWebSite\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "ECommerceWebSite\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-28T08:41:11.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\d.turco\\source\\repos\\ECommerceWebSite\\ECommerceWebSite\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ECommerceWebSite\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\d.turco\\source\\repos\\ECommerceWebSite\\ECommerceWebSite\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ECommerceWebSite\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T07:46:24.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\d.turco\\source\\repos\\ECommerceWebSite\\ECommerceWebSite\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "ECommerceWebSite\\wwwroot\\css\\site.css",
@@ -154,7 +262,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 12,
               "Title": "Customization.cshtml.css",
               "DocumentMoniker": "C:\\Users\\d.turco\\source\\repos\\ECommerceWebSite\\ECommerceWebSite\\Views\\Home\\Customization.cshtml.css",
               "RelativeDocumentMoniker": "ECommerceWebSite\\Views\\Home\\Customization.cshtml.css",
@@ -162,90 +270,11 @@
               "RelativeToolTip": "ECommerceWebSite\\Views\\Home\\Customization.cshtml.css",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-03-28T08:39:13.47Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-28T08:39:13.47Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_Layout.cshtml.css",
-              "DocumentMoniker": "C:\\Users\\d.turco\\source\\repos\\ECommerceWebSite\\ECommerceWebSite\\Views\\Shared\\_Layout.cshtml.css",
-              "RelativeDocumentMoniker": "ECommerceWebSite\\Views\\Shared\\_Layout.cshtml.css",
-              "ToolTip": "C:\\Users\\d.turco\\source\\repos\\ECommerceWebSite\\ECommerceWebSite\\Views\\Shared\\_Layout.cshtml.css",
-              "RelativeToolTip": "ECommerceWebSite\\Views\\Shared\\_Layout.cshtml.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-03-28T08:41:11.97Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\d.turco\\source\\repos\\ECommerceWebSite\\ECommerceWebSite\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "ECommerceWebSite\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\d.turco\\source\\repos\\ECommerceWebSite\\ECommerceWebSite\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "ECommerceWebSite\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAJYAAAAAAAAAAAAAAKgAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-27T12:30:10.152Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Customization.cshtml",
-              "DocumentMoniker": "C:\\Users\\d.turco\\source\\repos\\ECommerceWebSite\\ECommerceWebSite\\Views\\Home\\Customization.cshtml",
-              "RelativeDocumentMoniker": "ECommerceWebSite\\Views\\Home\\Customization.cshtml",
-              "ToolTip": "C:\\Users\\d.turco\\source\\repos\\ECommerceWebSite\\ECommerceWebSite\\Views\\Home\\Customization.cshtml",
-              "RelativeToolTip": "ECommerceWebSite\\Views\\Home\\Customization.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-28T08:10:14.523Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\d.turco\\source\\repos\\ECommerceWebSite\\ECommerceWebSite\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "ECommerceWebSite\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\d.turco\\source\\repos\\ECommerceWebSite\\ECommerceWebSite\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "ECommerceWebSite\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAACEAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-27T07:46:24.802Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\d.turco\\source\\repos\\ECommerceWebSite\\ECommerceWebSite\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "ECommerceWebSite\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\d.turco\\source\\repos\\ECommerceWebSite\\ECommerceWebSite\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "ECommerceWebSite\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-28T08:15:00.237Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "UsersList.cshtml",
-              "DocumentMoniker": "C:\\Users\\d.turco\\source\\repos\\ECommerceWebSite\\ECommerceWebSite\\Views\\Home\\User\\UsersList.cshtml",
-              "RelativeDocumentMoniker": "ECommerceWebSite\\Views\\Home\\User\\UsersList.cshtml",
-              "ToolTip": "C:\\Users\\d.turco\\source\\repos\\ECommerceWebSite\\ECommerceWebSite\\Views\\Home\\User\\UsersList.cshtml",
-              "RelativeToolTip": "ECommerceWebSite\\Views\\Home\\User\\UsersList.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-27T08:42:22.263Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "site.js",
               "DocumentMoniker": "C:\\Users\\d.turco\\source\\repos\\ECommerceWebSite\\ECommerceWebSite\\wwwroot\\js\\site.js",
               "RelativeDocumentMoniker": "ECommerceWebSite\\wwwroot\\js\\site.js",
@@ -253,12 +282,11 @@
               "RelativeToolTip": "ECommerceWebSite\\wwwroot\\js\\site.js",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-03-28T07:52:47.717Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-28T07:52:47.717Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "Subscription.cshtml.css",
               "DocumentMoniker": "C:\\Users\\d.turco\\source\\repos\\ECommerceWebSite\\ECommerceWebSite\\Views\\Home\\Subscription.cshtml.css",
               "RelativeDocumentMoniker": "ECommerceWebSite\\Views\\Home\\Subscription.cshtml.css",
@@ -266,12 +294,11 @@
               "RelativeToolTip": "ECommerceWebSite\\Views\\Home\\Subscription.cshtml.css",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAIYAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-03-28T08:13:32.844Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-28T08:13:32.844Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "Insert.sql",
               "DocumentMoniker": "C:\\Users\\d.turco\\source\\repos\\ECommerceWebSite\\ECommerceWebSite\\Migrations\\Insert.sql",
               "RelativeDocumentMoniker": "ECommerceWebSite\\Migrations\\Insert.sql",
@@ -282,7 +309,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\d.turco\\source\\repos\\ECommerceWebSite\\ECommerceWebSite\\Program.cs",
               "RelativeDocumentMoniker": "ECommerceWebSite\\Program.cs",
@@ -290,25 +317,11 @@
               "RelativeToolTip": "ECommerceWebSite\\Program.cs",
               "ViewState": "AQIAAB4AAAAAAAAAAAAvwF4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T16:08:04.232Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-25T16:08:04.232Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "_LoginPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\d.turco\\source\\repos\\ECommerceWebSite\\ECommerceWebSite\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeDocumentMoniker": "ECommerceWebSite\\Views\\Shared\\_LoginPartial.cshtml",
-              "ToolTip": "C:\\Users\\d.turco\\source\\repos\\ECommerceWebSite\\ECommerceWebSite\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeToolTip": "ECommerceWebSite\\Views\\Shared\\_LoginPartial.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-25T18:56:23.498Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "Register.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\d.turco\\source\\repos\\ECommerceWebSite\\ECommerceWebSite\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
               "RelativeDocumentMoniker": "ECommerceWebSite\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
@@ -316,12 +329,11 @@
               "RelativeToolTip": "ECommerceWebSite\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
               "ViewState": "AQIAAJUAAAAAAAAAAADwvxQAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T16:22:01.991Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-25T16:22:01.991Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "Register.cshtml",
               "DocumentMoniker": "C:\\Users\\d.turco\\source\\repos\\ECommerceWebSite\\ECommerceWebSite\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
               "RelativeDocumentMoniker": "ECommerceWebSite\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
@@ -333,7 +345,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "RoleHelper.cs",
               "DocumentMoniker": "C:\\Users\\d.turco\\source\\repos\\ECommerceWebSite\\ECommerceWebSite\\Helpers\\RoleHelper.cs",
               "RelativeDocumentMoniker": "ECommerceWebSite\\Helpers\\RoleHelper.cs",
@@ -345,7 +357,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\d.turco\\source\\repos\\ECommerceWebSite\\ECommerceWebSite\\appsettings.json",
               "RelativeDocumentMoniker": "ECommerceWebSite\\appsettings.json",
